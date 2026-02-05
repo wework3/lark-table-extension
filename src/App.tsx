@@ -194,35 +194,11 @@ export default function App() {
         <Form.Slot label="Reference">
           <div>
             <a
-              href="https://lark-technologies.larksuite.com/docx/HvCbdSzXNowzMmxWgXsuB2Ngs7d"
+              href="https://lark-base-team.github.io/js-sdk-docs/en/start/core"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Base Extensions Guide
-            </a>
-            、
-            <a
-              href="https://bytedance.feishu.cn/docx/HazFdSHH9ofRGKx8424cwzLlnZc"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              多维表格插件开发指南
-            </a>
-            、
-            <a
-              href="https://lark-technologies.larksuite.com/docx/Y6IcdywRXoTYSOxKwWvuLK09sFe"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Base Extensions Front-end API
-            </a>
-            、
-            <a
-              href="https://bytedance.feishu.cn/docx/HjCEd1sPzoVnxIxF3LrcKnepnUf"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              多维表格插件API
+              Base JS SDK
             </a>
           </div>
         </Form.Slot>
