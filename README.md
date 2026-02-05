@@ -1,6 +1,8 @@
 # Getting Started
-- Hit run
-- Edit [App.tsx](#src/App.tsx) and watch it live update!
+- Install dependencies: `npm install`
+- Start dev server: `npm run dev`
+- Open the Vite URL (usually `http://localhost:5173/`)
+- Edit `src/App.tsx` and watch it live update
 
 # Learn More
 
@@ -8,7 +10,7 @@ You can learn more in the [Base Extension Development Guide](https://lark-techno
 
 ## Install packages
 
-Install packages in Shell pane or search and add in Packages pane.
+Run `npm install` in the project root.
 
 ## Publish
 Please npm run build first, submit it together with the dist directory, and then fill in the form:
