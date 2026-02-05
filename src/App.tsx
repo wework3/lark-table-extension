@@ -191,7 +191,7 @@ export default function App() {
         getFormApi={(api: FormApi) => (formApiRef.current = api)}
       >
         {/* Documentation Links */}
-        <Form.Slot label="Development guide">
+        <Form.Slot label="Reference">
           <div>
             <a
               href="https://lark-technologies.larksuite.com/docx/HvCbdSzXNowzMmxWgXsuB2Ngs7d"
@@ -208,11 +208,7 @@ export default function App() {
             >
               多维表格插件开发指南
             </a>
-          </div>
-        </Form.Slot>
-
-        <Form.Slot label="API">
-          <div>
+            、
             <a
               href="https://lark-technologies.larksuite.com/docx/Y6IcdywRXoTYSOxKwWvuLK09sFe"
               target="_blank"
@@ -227,6 +223,30 @@ export default function App() {
               rel="noopener noreferrer"
             >
               多维表格插件API
+            </a>
+          </div>
+        </Form.Slot>
+
+        <Form.Slot label="Data Template">
+          <div>
+            <a
+              href="https://bytedance.larkoffice.com/wiki/SMr1w8o9QiEhRUkMN6pcjun3nvh?from=from_copylink"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Data Template
+            </a>
+          </div>
+        </Form.Slot>
+
+        <Form.Slot label="Development log">
+          <div>
+            <a
+              href="https://bytedance.larkoffice.com/wiki/AelJwBthTiXx7xk9G34cRXWInMd"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Development Log
             </a>
           </div>
         </Form.Slot>
